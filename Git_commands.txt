@@ -26,5 +26,7 @@ $ git push -u origin main
 
 git add .
 
+git commit -am "Text background"
 
+git commit --amend
 
