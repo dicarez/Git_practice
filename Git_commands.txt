@@ -1,0 +1,30 @@
+Git commands
+
+git init
+git add <file>
+git status -s
+
+git commit -m "First practice commit"
+
+git config --global user.email "diego.carvalhoalvarez@gmail.com"
+git config --global user.name "dicarez"
+
+git commit -m "More text and title added"
+
+
+git log --oneline
+
+# Restarurar la instantanea
+
+git reset --hard <code>
+
+
+$ git remote add origin https://github.com/dicarez/Git_practice.git
+$ git branch -M main
+$ git push -u origin main
+
+
+git add .
+
+
+
